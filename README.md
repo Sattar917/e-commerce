@@ -7,9 +7,7 @@ You're need to have MySQL server running.
 You're need to have test account in Stripe
 
 # Instructions
-Fork this Repository.
+Fork this Repository. 
 Clone your forked repository.
 Change username and password in application.properties.
-Change private key in application.properties.
-Change public key in front.
 Run backend and frontend as different apps.
