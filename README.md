@@ -8,5 +8,5 @@ Welcome fellow developer! This is my e-shop project that i made for educational 
 # Instructions
 * Fork this Repository. 
 * Clone your forked repository.
-* Change username and password in application.properties.
+* Change spring.datasource.username and spring.datasource.password in application.properties.
 * Run backend and frontend as different apps.
